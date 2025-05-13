@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "c5d414ef56ef8e55",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda0ab30ebd51ef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f459d1154898bb58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c93831b9e8d7844",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df27c0a89e56c50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c54a891cfd6aafa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "9a76ae7d584760e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0092a3ae63a8e62f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39e3db187a59e135",
+    "type": "split",
+    "children": [
+      {
+        "id": "096af67e5b2fe074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec95c140f4996cf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Modulo 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Modulo 4"
+            }
+          },
+          {
+            "id": "e723c46d8fade421",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Modulo 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Modulo 4"
+            }
+          },
+          {
+            "id": "8aecf99187d25eca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "32fe29c65d4964c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Modulo 4.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Modulo 4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "f459d1154898bb58",
+  "lastOpenFiles": [
+    "Modulo 2.md",
+    "Modulo 1.md",
+    "Excalidraw/Drawing 2025-04-17 17.10.33.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-17 17.09.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-17 17.09.18.excalidraw.md",
+    "Excalidraw",
+    "Modulo 3.md",
+    "Modulo 4.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
