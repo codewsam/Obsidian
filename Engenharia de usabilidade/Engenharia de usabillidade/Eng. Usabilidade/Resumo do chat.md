@@ -169,3 +169,6 @@ ergonomia e usabilidade em concursos. Bons estudos!
 
 
 tecnica de ensaio de interação
+
+
+DEU CERTOOOOOOOOOOOOOOOOOOOOOOOOO
